@@ -507,7 +507,7 @@ function App() {
       {/* Footer */}
       <footer className="footer">
         <p>Diseñado y desarrollado con 🔥 por <strong>Eduardo Lizama</strong></p>
-        <p className="footer-year">© 2025 - Todos los derechos reservados</p>
+        <p className="footer-year">© 2026 - Todos los derechos reservados</p>
       </footer>
     </div>
   )
