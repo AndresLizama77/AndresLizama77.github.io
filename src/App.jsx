@@ -74,7 +74,11 @@ function App() {
         </div>
         
         <div className="hero-imagen">
-          <div className="hero-avatar">EL</div>
+          <div className="hero-avatar-borde">
+            <div className="hero-avatar">
+              <img src="/avatarhalo.jpg" alt="Eduardo Lizama" />
+            </div>
+          </div>
         </div>
       </section>
 
