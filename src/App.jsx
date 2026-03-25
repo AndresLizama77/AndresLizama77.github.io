@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 import './App.css'
+import FondoInteractivo from './FondoInteractivo'
 
 function App() {
   const [menuAbierto, setMenuAbierto] = useState(false)
@@ -32,6 +33,12 @@ function App() {
 
   return (
     <div className="app">
+      <div className="fondo-orbes" aria-hidden="true">
+        <div className="orbe orbe-1"></div>
+        <div className="orbe orbe-2"></div>
+        <div className="orbe orbe-3"></div>
+      </div>
+      <FondoInteractivo />
       {/* Navegación */}
       <nav className="navbar">
         <a href="#" className="logo">Eduardo Lizama</a>
