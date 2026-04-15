@@ -41,7 +41,7 @@ function App() {
       <FondoInteractivo />
       {/* Navegación */}
       <nav className="navbar">
-        <a href="#" className="logo">Eduardo Lizama</a>
+        <a href="#" className="logo">DaRaci-7</a>
         
         {/* Menú hamburguesa */}
         <button 
@@ -66,17 +66,17 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <p className="hero-saludo">¡Hola! Soy</p>
+          {/* <p className="hero-saludo">¡Hola! Soy</p> */}
           <h1 className="hero-nombre">Eduardo Lizama</h1>
-          <h2 className="hero-titulo">Desarrollador Full Stack</h2>
-          <p className="hero-subtitulo">Java | JavaScript | Spring Boot</p>
+          <h2 className="hero-titulo">Analista Desarrollador Full Stack</h2>
+          <p className="hero-subtitulo">Java | JavaScript | Spring Boot | React.js</p>
           <p className="hero-descripcion">
             De liderar equipos técnicos a crear soluciones digitales. 
             +1,400 horas de formación intensiva y experiencia real en soporte TI.
           </p>
           <div className="hero-botones">
             <a href="#contacto" className="btn btn-primario">Contáctame</a>
-            <a href="#" className="btn btn-secundario">Descargar CV</a>
+            <a href="/CV_Eduardo_Lizama.docx.pdf" download className="btn btn-secundario">Descargar CV</a>
           </div>
         </div>
         
@@ -388,8 +388,8 @@ function App() {
                 <span>Vite</span>
               </div>
               <div className="proyecto-enlaces">
-                <a href="#" className="proyecto-link">Ver Demo →</a>
-                <a href="https://github.com/DaRaci-7" target="_blank" rel="noopener noreferrer" className="proyecto-link">GitHub →</a>
+                {/* <a href="#" className="proyecto-link">Ver Demo →</a> */}
+                <a href="https://github.com/AndresLizama77/AndresLizama77.github.io" target="_blank" rel="noopener noreferrer" className="proyecto-link">GitHub →</a>
               </div>
             </div>
           </div>
@@ -410,7 +410,7 @@ function App() {
                 <span>MySQL</span>
               </div>
               <div className="proyecto-enlaces">
-                <a href="https://github.com/DaRaci-7" target="_blank" rel="noopener noreferrer" className="proyecto-link">GitHub →</a>
+                <a href="https://github.com/AndresLizama77/springboot-user-api" target="_blank" rel="noopener noreferrer" className="proyecto-link">GitHub →</a>
               </div>
             </div>
           </div>
@@ -431,8 +431,8 @@ function App() {
                 <span>HTML5</span>
               </div>
               <div className="proyecto-enlaces">
-                <a href="#" className="proyecto-link">Ver Demo →</a>
-                <a href="https://github.com/DaRaci-7" target="_blank" rel="noopener noreferrer" className="proyecto-link">GitHub →</a>
+                {/* <a href="#" className="proyecto-link">Ver Demo →</a> */}
+                {/* <a href="https://github.com/DaRaci-7" target="_blank" rel="noopener noreferrer" className="proyecto-link">GitHub →</a> */}
               </div>
             </div>
           </div>
@@ -444,8 +444,7 @@ function App() {
             <div className="proyecto-info">
               <h3 className="proyecto-titulo">Próximo Proyecto</h3>
               <p className="proyecto-descripcion">
-                Actualmente trabajando en nuevos proyectos aplicando 
-                tecnologías full stack y metodologías ágiles.
+                Actualmente trabajando en una aplicacion web y mobil para el seguimiento trabajos en el area automotriz.
               </p>
               <div className="proyecto-tecnologias">
                 <span>En desarrollo</span>
@@ -490,7 +489,7 @@ function App() {
                 </div>
               </a>
 
-              <a href="https://www.linkedin.com/in/eduardo-andr%C3%A9s-lizama-delgado-5603b2282" target="_blank" rel="noopener noreferrer" className="contacto-item">
+              <a href="https://www.linkedin.com/in/andreslizama77970/" target="_blank" rel="noopener noreferrer" className="contacto-item">
                 <div className="contacto-icono">💼</div>
                 <div className="contacto-detalle">
                   <span className="contacto-label">LinkedIn</span>
@@ -498,11 +497,11 @@ function App() {
                 </div>
               </a>
 
-              <a href="https://github.com/DaRaci-7" target="_blank" rel="noopener noreferrer" className="contacto-item">
+              <a href="https://github.com/AndresLizama77" target="_blank" rel="noopener noreferrer" className="contacto-item">
                 <div className="contacto-icono">💻</div>
                 <div className="contacto-detalle">
                   <span className="contacto-label">GitHub</span>
-                  <span className="contacto-valor">DaRaci-7</span>
+                  <span className="contacto-valor">Eduardo Lizama<br />(DaRaci-7)</span>
                 </div>
               </a>
             </div>
