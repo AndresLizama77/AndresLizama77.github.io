@@ -156,19 +156,19 @@ function App() {
               <div className="habilidad">
                 <div className="habilidad-info">
                   <span className="habilidad-nombre">Java / Spring Boot</span>
-                  <span className="habilidad-porcentaje">75%</span>
+                  <span className="habilidad-porcentaje">45%</span>
                 </div>
                 <div className="habilidad-barra">
-                  <div className="habilidad-progreso" style={{ width: '75%' }}></div>
+                  <div className="habilidad-progreso" style={{ width: '45%' }}></div>
                 </div>
               </div>
               <div className="habilidad">
                 <div className="habilidad-info">
                   <span className="habilidad-nombre">JavaScript</span>
-                  <span className="habilidad-porcentaje">70%</span>
+                  <span className="habilidad-porcentaje">51%</span>
                 </div>
                 <div className="habilidad-barra">
-                  <div className="habilidad-progreso" style={{ width: '70%' }}></div>
+                  <div className="habilidad-progreso" style={{ width: '51%' }}></div>
                 </div>
               </div>
               <div className="habilidad">
@@ -183,14 +183,16 @@ function App() {
               <div className="habilidad">
                 <div className="habilidad-info">
                   <span className="habilidad-nombre">Python</span>
-                  <span className="habilidad-porcentaje">40%</span>
+                  <span className="habilidad-porcentaje">30%</span>
                 </div>
                 <div className="habilidad-barra">
-                  <div className="habilidad-progreso" style={{ width: '40%' }}></div>
+                  <div className="habilidad-progreso" style={{ width: '30%' }}></div>
                 </div>
               </div>
             </div>
           </div>
+
+          
 
           <div className="habilidades-grupo">
             <h3 className="grupo-titulo">🛠️ Herramientas</h3>
@@ -256,11 +258,11 @@ function App() {
                 <span className="fecha-badge">2025</span>
               </div>
               <h3 className="timeline-titulo">Soporte TI</h3>
-              <h4 className="timeline-empresa">Colegio Nuevo Milenio</h4>
+              <h4 className="timeline-empresa">Independiente</h4>
               <p className="timeline-descripcion">
-                Administración de +40 equipos con 100% de disponibilidad. 
+                Mantenimiento y reparacion de +40 equipos con 100% de efectividad. 
                 Soporte técnico de primer nivel, diagnóstico de redes LAN 
-                y gestión de tickets priorizando requerimientos críticos.
+                y gestión de problemas priorizando requerimientos críticos.
               </p>
               <div className="timeline-tags">
                 <span>Soporte TI</span>
@@ -279,7 +281,7 @@ function App() {
               <h3 className="timeline-titulo">Desarrollo Web</h3>
               <h4 className="timeline-empresa">Proyectos Formativos y Personales</h4>
               <p className="timeline-descripcion">
-                Desarrollo de sitios web con HTML, CSS, JavaScript y Bootstrap. 
+                Desarrollo de sitios web con HTML, CSS, JavaScript, Bootstrap y React. 
                 Implementación de arquitectura modular con Java y JavaScript. 
                 Control de versiones con Git y GitHub.
               </p>
