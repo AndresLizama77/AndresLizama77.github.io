@@ -110,13 +110,13 @@ function App() {
             <p>
               Esa mentalidad analítica me llevó a la tecnología. Hoy, con más de 
               <strong> 1,400 horas de formación intensiva</strong> en bootcamps y experiencia 
-              real en soporte TI gestionando +40 equipos, combino la disciplina del 
+              real en soporte TI, combino la disciplina del 
               mundo técnico con las habilidades del desarrollo moderno.
             </p>
             <p>
               Actualmente soy <strong>miembro colaborador de la Cámara Chilena de 
-              Inteligencia Artificial</strong>, cursando un bootcamp de emprendimiento 
-              DeepTech y construyendo proyectos personales que me desafían a seguir 
+              Inteligencia Artificial</strong>, Finalice hace muy poco un bootcamp de emprendimiento 
+              DeepTech y actualmente sigo construyendo proyectos personales que me desafían a seguir 
               creciendo.
             </p>
           </div>
@@ -127,8 +127,8 @@ function App() {
               <span className="stat-label">Horas de formación</span>
             </div>
             <div className="stat-card">
-              <span className="stat-numero">+40</span>
-              <span className="stat-label">Equipos gestionados</span>
+              <span className="stat-numero">2</span>
+              <span className="stat-label">Años de experiencia </span>
             </div>
             <div className="stat-card">
               <span className="stat-numero">30%</span>
