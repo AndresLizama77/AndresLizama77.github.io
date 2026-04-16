@@ -83,7 +83,7 @@ function App() {
         <div className="hero-imagen">
           <div className="hero-avatar-borde">
             <div className="hero-avatar">
-              <img src="/avatarhalo.jpg" alt="Eduardo Lizama" />
+              <img src="/perfilq.jpeg" alt="Eduardo Lizama" />
             </div>
           </div>
         </div>
@@ -174,10 +174,10 @@ function App() {
               <div className="habilidad">
                 <div className="habilidad-info">
                   <span className="habilidad-nombre">HTML / CSS / Bootstrap</span>
-                  <span className="habilidad-porcentaje">80%</span>
+                  <span className="habilidad-porcentaje">67%</span>
                 </div>
                 <div className="habilidad-barra">
-                  <div className="habilidad-progreso" style={{ width: '80%' }}></div>
+                  <div className="habilidad-progreso" style={{ width: '67%' }}></div>
                 </div>
               </div>
               <div className="habilidad">
@@ -200,10 +200,10 @@ function App() {
               <div className="habilidad">
                 <div className="habilidad-info">
                   <span className="habilidad-nombre">Git / GitHub</span>
-                  <span className="habilidad-porcentaje">75%</span>
+                  <span className="habilidad-porcentaje">58%</span>
                 </div>
                 <div className="habilidad-barra">
-                  <div className="habilidad-progreso" style={{ width: '75%' }}></div>
+                  <div className="habilidad-progreso" style={{ width: '58%' }}></div>
                 </div>
               </div>
               <div className="habilidad">
@@ -218,10 +218,10 @@ function App() {
               <div className="habilidad">
                 <div className="habilidad-info">
                   <span className="habilidad-nombre">Soporte TI / Redes LAN</span>
-                  <span className="habilidad-porcentaje">85%</span>
+                  <span className="habilidad-porcentaje">75%</span>
                 </div>
                 <div className="habilidad-barra">
-                  <div className="habilidad-progreso" style={{ width: '85%' }}></div>
+                  <div className="habilidad-progreso" style={{ width: '75%' }}></div>
                 </div>
               </div>
             </div>
